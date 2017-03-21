@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1489934215 source:c:\c++\sort\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"bubbleSort.h"
+	"selectionSort.h"
+	"insertionSort.h"
+	"shellSort.h"
+	"mergeSort.h"
+	"quickSort.h"
+	"heapSort.h"
+
+1489910520 c:\c++\sort\bubblesort.h
+	<vector>
+	<algorithm>
+
+1489910505 source:c:\c++\sort\bubblesort.cpp
+	"bubbleSort.h"
+
+1489910378 c:\c++\sort\selectionsort.h
+	<vector>
+	<algorithm>
+
+1489910446 source:c:\c++\sort\selectionsort.cpp
+	"selectionSort.h"
+
+1489922704 source:c:\c++\sort\insertionsort.cpp
+	"insertionSort.h"
+
+1489921413 c:\c++\sort\insertionsort.h
+	<vector>
+	<algorithm>
+
+1489913623 c:\c++\sort\shellsort.h
+	<vector>
+	<algorithm>
+
+1489923231 source:c:\c++\sort\shellsort.cpp
+	"shellsort.h"
+
+1489931789 c:\c++\sort\mergesort.h
+	<vector>
+	<algorithm>
+
+1489932272 source:c:\c++\sort\mergesort.cpp
+	"mergeSort.h"
+
+1489932880 source:c:\c++\sort\quicksort.cpp
+	"quickSort.h"
+
+1489932845 c:\c++\sort\quicksort.h
+	<vector>
+	<algorithm>
+
+1489934461 c:\c++\sort\heapsort.h
+	<vector>
+	<algorithm>
+
+1489934466 source:c:\c++\sort\heapsort.cpp
+	"heapSort.h"
+
